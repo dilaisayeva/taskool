@@ -188,3 +188,47 @@ pwd
 ls
 cp /* /home/dilara/Desktop/aws
 ls
+ls -la
+cd taskool2/
+ls -la
+cd ..
+ls
+git initi
+git init
+ls -la
+git push origin url 'https://github.com/dilaisayeva/taskool.git'
+git commit -m 'fgf'
+git remote add origin https://github.com/dilaisayeva/taskool.git
+git push origin main
+git push origin main https://github.com/dilaisayeva/taskool.git
+git push origin main 
+ls
+git remote add origin https://github.com/dilaisayeva/taskool.git
+git remote -v
+git push origin main
+git push -f 
+git push origin main -f
+git push -f github master
+git push -f origin main
+git push -u -f origin main
+ls -la
+git push origin main --force
+git push origin master --force
+git add .
+git status
+git commit -m 'dffd'
+git push origin main -f
+git push  -f
+git push 
+git push
+git push -f origin master
+ls
+ls -la
+git add .
+git status
+git push origin main
+git push origin master
+ls
+exit
+ls
+exit
